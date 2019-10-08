@@ -1,0 +1,17 @@
+.todo-header{
+    background: linear-gradient(90deg, #3a424c94 0%, #000000 49%, #3a424c94 100%);
+    border-bottom: 0.5px solid #e6e6e69e;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 2;
+    h3{
+        margin: 0;
+    }
+}
